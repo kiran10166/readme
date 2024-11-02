@@ -1,7 +1,7 @@
 # readme
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Ghost cursor] 🎯
 
 
 ## Basic Details
@@ -9,9 +9,9 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Alan Xavier] - [Cochin University College Of Engineering,Kuttanad]
+- Member 2: [Kiran S Chand] - [Cochin University College Of Engineering,Kuttanad]
+- Member 3: [Sreayas Prasad] - [Cochin University College Of Engineering,Kuttanad]
 
 ### Project Description
 [2-3 lines about what your project does]
