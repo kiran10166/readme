@@ -88,9 +88,9 @@ Explain what the video demonstrates
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Alen Xavier]: [Specific contributions]
+- [Kiran S Chand]: [Specific contributions]
+- [Sreayas Prasad]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
